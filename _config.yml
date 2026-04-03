@@ -1,10 +1,9 @@
 title: Muhammad Awais - Personal Website
-description: My Learning Journey & Experiences
+description: My Learning Journey
 
-# Important: Yeh line honi chahiye (remote_theme nahi)
 theme: minima
 
-# Navigation Menu ke liye
+# Navigation Menu Settings
 header_pages:
   - index.md
   - about.md
