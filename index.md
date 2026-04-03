@@ -4,35 +4,43 @@ title: Home
 ---
 
 <section class="hero-card">
-  <p class="section-label">Main Page</p>
-  <p class="hero-kicker">User Name</p>
-  <h2 class="display-name">Muhammad Awais</h2>
-  <p class="hero-username"><a href="https://awaisjutt78488-byte.github.io/">awaisjutt78488-byte.github.io</a></p>
-  <p class="hero-tagline">Computer Engineering Student</p>
-  <p class="lead">Building a strong foundation in software, problem solving, and real-world project work with a clear focus on long-term growth.</p>
-  <div class="hero-pill-list">
-    <span class="hero-pill">Programming Fundamentals</span>
-    <span class="hero-pill">Software Development</span>
-    <span class="hero-pill">Problem Solving</span>
-  </div>
-  <div class="hero-grid">
-    <div class="info-card">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Programming fundamentals</li>
-        <li>Software development practice</li>
-        <li>Problem-solving consistency</li>
-      </ul>
+  <div class="hero-layout">
+    <div class="hero-copy">
+      <p class="section-label">Main Page</p>
+      <p class="hero-kicker">User Name</p>
+      <h2 class="display-name">Muhammad Awais</h2>
+      <p class="hero-username"><a href="https://awaisjutt78488-byte.github.io/">awaisjutt78488-byte.github.io</a></p>
+      <p class="hero-tagline">Computer Engineering Student</p>
+      <p class="lead">Building a strong foundation in software, problem solving, and real-world project work with a clear focus on long-term growth.</p>
+      <div class="hero-pill-list">
+        <span class="hero-pill">Programming Fundamentals</span>
+        <span class="hero-pill">Software Development</span>
+        <span class="hero-pill">Problem Solving</span>
+      </div>
+      <div class="hero-grid">
+        <div class="info-card">
+          <h3>Current Focus</h3>
+          <ul>
+            <li>Programming fundamentals</li>
+            <li>Software development practice</li>
+            <li>Problem-solving consistency</li>
+          </ul>
+        </div>
+        <div class="info-card">
+          <h3>Career Goal</h3>
+          <p>My goal is to grow into a skilled software engineer and use technology to build useful solutions.</p>
+        </div>
+        <div class="info-card">
+          <h3>Current Semester</h3>
+          <p class="semester-box">2nd Semester</p>
+          <p>I am currently focused on learning steadily, improving my GPA, and strengthening my technical base.</p>
+        </div>
+      </div>
     </div>
-    <div class="info-card">
-      <h3>Career Goal</h3>
-      <p>My goal is to grow into a skilled software engineer and use technology to build useful solutions.</p>
-    </div>
-    <div class="info-card">
-      <h3>Current Semester</h3>
-      <p class="semester-box">2nd Semester</p>
-      <p>I am currently focused on learning steadily, improving my GPA, and strengthening my technical base.</p>
-    </div>
+    <figure class="feature-visual feature-visual--hero">
+      <img src="{{ '/assets/images/site/uet-main-block.jpg' | relative_url }}" alt="UET Lahore Main Block building" decoding="async" />
+      <figcaption>UET Lahore Main Block brings the classical engineering-campus look that fits the first page. <a href="https://commons.wikimedia.org/wiki/File:UET_Main_Block.jpg">Photo source</a></figcaption>
+    </figure>
   </div>
 </section>
 

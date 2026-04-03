@@ -9,6 +9,18 @@ permalink: /skills/
   <h2 class="skills-title">What I <span class="accent-word">build with.</span></h2>
 </section>
 
+<section class="media-panel">
+  <figure class="feature-visual">
+    <img src="{{ '/assets/images/site/uet-electrical-engineering.jpg' | relative_url }}" alt="Department of Electrical Engineering building at UET Lahore" loading="lazy" decoding="async" />
+    <figcaption>Department of Electrical Engineering at UET Lahore. <a href="https://commons.wikimedia.org/wiki/File:UET_Department_of_Electrical_Engineering.jpg">Photo source</a></figcaption>
+  </figure>
+  <div class="content-card media-copy media-copy--cool">
+    <p class="section-label">Engineering Direction</p>
+    <h2>Skills shaped by technical subjects</h2>
+    <p>These are the areas I am building through programming practice, engineering coursework, and regular self-improvement.</p>
+  </div>
+</section>
+
 <section class="skills-grid">
   <article class="skill-card">
     <p class="skill-heading">Programming Languages</p>

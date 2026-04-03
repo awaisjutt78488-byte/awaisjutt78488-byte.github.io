@@ -10,6 +10,18 @@ permalink: /blog/
   <p>This page shows all post links. Click any post to open the full article and read the complete experience.</p>
 </section>
 
+<section class="media-panel">
+  <div class="content-card media-copy">
+    <p class="section-label">Stories</p>
+    <h2>Learning, effort, and personal growth</h2>
+    <p>My posts collect the lessons I am learning from university life, hostel challenges, study habits, and semester experiences.</p>
+  </div>
+  <figure class="feature-visual">
+    <img src="{{ '/assets/images/site/uet-library.jpg' | relative_url }}" alt="UET Library building" loading="lazy" decoding="async" />
+    <figcaption>UET Library, representing study, reflection, and steady learning. <a href="https://commons.wikimedia.org/wiki/File:UET_Library.jpg">Photo source</a></figcaption>
+  </figure>
+</section>
+
 <section class="posts-grid">
   {% for post in site.posts %}
     <article class="post-preview-card">
