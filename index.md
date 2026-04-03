@@ -5,7 +5,7 @@ title: Home
 
 <section class="hero-card">
   <p class="section-label">Main Page</p>
-  <p class="hero-kicker">Portfolio Of</p>
+  <p class="hero-kicker">User Name</p>
   <h2 class="display-name">Muhammad Awais</h2>
   <p class="hero-tagline">Computer Engineering Student</p>
   <p class="lead">Building a strong foundation in software, problem solving, and real-world project work with a clear focus on long-term growth.</p>
@@ -28,8 +28,9 @@ title: Home
       <p>My goal is to grow into a skilled software engineer and use technology to build useful solutions.</p>
     </div>
     <div class="info-card">
-      <h3>Academic Stage</h3>
-      <p>I am currently in my second semester and focused on learning steadily, improving my GPA, and strengthening my technical base.</p>
+      <h3>Current Semester</h3>
+      <p class="semester-box">2nd Semester</p>
+      <p>I am currently focused on learning steadily, improving my GPA, and strengthening my technical base.</p>
     </div>
   </div>
 </section>
