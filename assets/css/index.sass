@@ -93,10 +93,47 @@ a
   padding: 2rem
   margin-bottom: 1.25rem
 
+.hero-card
+  background: linear-gradient(145deg, rgba(255, 248, 236, 0.96), rgba(246, 228, 200, 0.88))
+
+.hero-kicker
+  margin: 0
+  font-size: .92rem
+  letter-spacing: .18em
+  text-transform: uppercase
+  color: var(--accent)
+
+.display-name
+  margin: .35rem 0 .4rem
+  font-size: 4.25rem
+  line-height: .95
+
+.hero-tagline
+  margin: 0 0 1rem
+  font-size: 1.3rem
+  font-weight: 700
+  color: var(--accent-deep)
+
 .lead
   font-size: 1.15rem
   color: var(--muted)
   max-width: 46rem
+
+.hero-pill-list
+  display: flex
+  flex-wrap: wrap
+  gap: .7rem
+  margin: 1.35rem 0 0
+
+.hero-pill
+  display: inline-flex
+  align-items: center
+  padding: .6rem 1rem
+  border-radius: 999px
+  background: rgba(255, 255, 255, 0.72)
+  border: 1px solid rgba(116, 50, 13, 0.14)
+  font-weight: 700
+  color: var(--accent-deep)
 
 .hero-grid, .two-column-grid, .posts-grid
   display: grid
@@ -163,6 +200,12 @@ a
 
   .hero-card, .content-card, .post-card
     padding: 1.4rem
+
+  .display-name
+    font-size: 2.9rem
+
+  .hero-tagline
+    font-size: 1.05rem
 
   .site-header nav
     gap: .65rem

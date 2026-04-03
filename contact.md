@@ -16,6 +16,10 @@ permalink: /contact/
     <p><a href="mailto:awaisjutt78488@gmail.com">awaisjutt78488@gmail.com</a></p>
   </div>
   <div class="info-card">
+    <h3>Phone</h3>
+    <p><a href="tel:+923498355984">0349-8355984</a></p>
+  </div>
+  <div class="info-card">
     <h3>GitHub</h3>
     <p><a href="https://github.com/awaisjutt78488-byte/awaisjutt78488-byte.github.io">View my repository</a></p>
   </div>

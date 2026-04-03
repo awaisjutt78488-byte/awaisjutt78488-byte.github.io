@@ -5,8 +5,15 @@ title: Home
 
 <section class="hero-card">
   <p class="section-label">Main Page</p>
-  <h2>Muhammad Awais</h2>
-  <p class="lead">Computer Engineering student building a strong foundation in software, problem solving, and real-world project work.</p>
+  <p class="hero-kicker">Portfolio Of</p>
+  <h2 class="display-name">Muhammad Awais</h2>
+  <p class="hero-tagline">Computer Engineering Student</p>
+  <p class="lead">Building a strong foundation in software, problem solving, and real-world project work with a clear focus on long-term growth.</p>
+  <div class="hero-pill-list">
+    <span class="hero-pill">Programming Fundamentals</span>
+    <span class="hero-pill">Software Development</span>
+    <span class="hero-pill">Problem Solving</span>
+  </div>
   <div class="hero-grid">
     <div class="info-card">
       <h3>Current Focus</h3>
