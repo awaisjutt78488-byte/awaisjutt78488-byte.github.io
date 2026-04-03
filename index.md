@@ -37,14 +37,33 @@ title: Home
         </div>
       </div>
     </div>
-    <figure class="feature-visual feature-visual--hero feature-visual--gate">
-      <div class="hero-visual-overlay">
-        <p>UET Lahore</p>
-        <h3>University of Engineering and Technology</h3>
+    <aside class="profile-summary-card">
+      <p class="section-label">Personal Details</p>
+      <h3>My Information</h3>
+      <div class="detail-list">
+        <div class="detail-row">
+          <span class="detail-label">Name</span>
+          <span class="detail-value">Muhammad Awais</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Current City</span>
+          <span class="detail-value">Faisalabad, Pakistan</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Home City</span>
+          <span class="detail-value">Shorkot Cantt</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Current Semester</span>
+          <span class="detail-value">2nd Semester</span>
+        </div>
+        <div class="detail-row">
+          <span class="detail-label">Field</span>
+          <span class="detail-value">Computer Engineering</span>
+        </div>
       </div>
-      <img src="{{ '/assets/images/site/uet-gate-hero.jpg' | relative_url }}" alt="UET Lahore entrance gate" decoding="async" />
-      <figcaption>Customized from a UET Lahore gallery image to highlight the university entrance. <a href="https://www.uet.edu.pk/gallery/faculty.jpg">Photo source</a></figcaption>
-    </figure>
+      <p class="profile-note">I currently live in Faisalabad for my studies while my hometown is Shorkot Cantt.</p>
+    </aside>
   </div>
 </section>
 
