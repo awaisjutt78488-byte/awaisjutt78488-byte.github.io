@@ -1,11 +1,12 @@
-title: Muhammad Awais - Personal Website
-description: My Learning Journey
+title: Muhammad Awais Portfolio
+description: My Computer Engineering Journey
 
-theme: minima
-
-# Navigation Menu Settings
-header_pages:
-  - index.md
-  - about.md
-  - blog.md
-  - contact.md
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about.html
+  - name: Blog
+    link: /blog.html
+  - name: Contact
+    link: /contact.html
