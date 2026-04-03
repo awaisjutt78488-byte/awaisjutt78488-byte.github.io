@@ -3,6 +3,8 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Skills"
+    url: /skills/
   - title: "Blog"
     url: /blog/
   - title: "Contact Us"
