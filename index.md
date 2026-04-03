@@ -37,9 +37,9 @@ title: Home
         </div>
       </div>
     </div>
-    <figure class="feature-visual feature-visual--hero">
-      <img src="{{ '/assets/images/site/uet-main-block.jpg' | relative_url }}" alt="UET Lahore Main Block building" decoding="async" />
-      <figcaption>UET Lahore Main Block brings the classical engineering-campus look that fits the first page. <a href="https://commons.wikimedia.org/wiki/File:UET_Main_Block.jpg">Photo source</a></figcaption>
+    <figure class="feature-visual feature-visual--hero feature-visual--logo">
+      <img src="{{ '/assets/images/site/uet-logo-large.png' | relative_url }}" alt="Official University of Engineering and Technology Lahore banner" decoding="async" />
+      <figcaption>Official University of Engineering and Technology Lahore banner. <a href="https://www.uet.edu.pk/home/index.html">Photo source</a></figcaption>
     </figure>
   </div>
 </section>
