@@ -7,7 +7,8 @@ permalink: /contact/
 <section class="content-card">
   <p class="section-label">Contact</p>
   <h2>Contact Me</h2>
-  <p>If you would like to connect, collaborate, or follow my learning journey, you can reach me through the links below.</p>
+  <p>If you would like to connect, collaborate, or follow my learning journey, you can reach me through the details below.</p>
+  <p class="contact-highlight">Open to learning, collaboration, and new opportunities.</p>
 </section>
 
 <section class="two-column-grid">
@@ -20,7 +21,19 @@ permalink: /contact/
     <p><a href="tel:+923498355984">0349-8355984</a></p>
   </div>
   <div class="info-card">
+    <h3>WhatsApp</h3>
+    <p><a href="https://wa.me/923498355984">Chat on WhatsApp</a></p>
+  </div>
+  <div class="info-card">
     <h3>GitHub</h3>
-    <p><a href="https://github.com/awaisjutt78488-byte/awaisjutt78488-byte.github.io">View my repository</a></p>
+    <p><a href="https://github.com/awaisjutt78488-byte">github.com/awaisjutt78488-byte</a></p>
+  </div>
+  <div class="info-card">
+    <h3>Portfolio</h3>
+    <p><a href="https://awaisjutt78488-byte.github.io/">awaisjutt78488-byte.github.io</a></p>
+  </div>
+  <div class="info-card">
+    <h3>Location</h3>
+    <p>Faisalabad, Pakistan</p>
   </div>
 </section>
