@@ -37,9 +37,13 @@ title: Home
         </div>
       </div>
     </div>
-    <figure class="feature-visual feature-visual--hero feature-visual--logo">
-      <img src="{{ '/assets/images/site/uet-logo-large.png' | relative_url }}" alt="Official University of Engineering and Technology Lahore banner" decoding="async" />
-      <figcaption>Official University of Engineering and Technology Lahore banner. <a href="https://www.uet.edu.pk/home/index.html">Photo source</a></figcaption>
+    <figure class="feature-visual feature-visual--hero feature-visual--gate">
+      <div class="hero-visual-overlay">
+        <p>UET Lahore</p>
+        <h3>University of Engineering and Technology</h3>
+      </div>
+      <img src="{{ '/assets/images/site/uet-gate-hero.jpg' | relative_url }}" alt="UET Lahore entrance gate" decoding="async" />
+      <figcaption>Customized from a UET Lahore gallery image to highlight the university entrance. <a href="https://www.uet.edu.pk/gallery/faculty.jpg">Photo source</a></figcaption>
     </figure>
   </div>
 </section>
