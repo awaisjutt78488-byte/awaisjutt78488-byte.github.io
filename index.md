@@ -40,27 +40,27 @@ title: Home
     <aside class="profile-summary-card">
       <p class="section-label">Personal Details</p>
       <h3>My Information</h3>
-      <div class="detail-list">
-        <div class="detail-row">
-          <span class="detail-label">Name</span>
-          <span class="detail-value">Muhammad Awais</span>
-        </div>
-        <div class="detail-row">
+      <div class="detail-card-grid">
+        <article class="detail-card">
+          <span class="detail-label">Identity</span>
+          <strong class="detail-title">Muhammad Awais</strong>
+          <span class="detail-value">Computer Engineering Student</span>
+        </article>
+        <article class="detail-card">
           <span class="detail-label">Current City</span>
-          <span class="detail-value">Faisalabad, Pakistan</span>
-        </div>
-        <div class="detail-row">
+          <strong class="detail-title">Faisalabad</strong>
+          <span class="detail-value">Pakistan</span>
+        </article>
+        <article class="detail-card">
           <span class="detail-label">Home City</span>
-          <span class="detail-value">Shorkot Cantt</span>
-        </div>
-        <div class="detail-row">
-          <span class="detail-label">Current Semester</span>
-          <span class="detail-value">2nd Semester</span>
-        </div>
-        <div class="detail-row">
-          <span class="detail-label">Field</span>
-          <span class="detail-value">Computer Engineering</span>
-        </div>
+          <strong class="detail-title">Shorkot Cantt</strong>
+          <span class="detail-value">My hometown</span>
+        </article>
+        <article class="detail-card">
+          <span class="detail-label">Study Status</span>
+          <strong class="detail-title">2nd Semester</strong>
+          <span class="detail-value">Field: Computer Engineering</span>
+        </article>
       </div>
       <p class="profile-note">I currently live in Faisalabad for my studies while my hometown is Shorkot Cantt.</p>
     </aside>
