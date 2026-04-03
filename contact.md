@@ -10,8 +10,8 @@ permalink: /contact/
 
 <ul>
   <li>Email: awaisjutt78488@gmail.com</li>
-  <li>GitHub: [your github username]</li>
-  <li>Phone/WhatsApp: 03498355984 </li>
+  <li>GitHub: https://github.com/awaisjutt78488-byte/awaisjutt78488-byte.github.io</li>
+  <li>Phone/WhatsApp: 03498355984</li>
 </ul>
 
 <p>Feel free to send me a message if you have any questions!</p>
