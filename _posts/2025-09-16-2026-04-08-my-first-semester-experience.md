@@ -1,23 +1,37 @@
 ---
-title: My First Semester Experience at UET FSD
-date: 2026-04-08
-layout: default
+title: "My First Semester Journey"
+layout: post
 ---
 
-<h1>My First Semester Experience at UET FSD</h1>
+![First Semester Journey](https://user-images.githubusercontent.com/4943215/74586455-c8048300-4fe7-11ea-84ba-aa49f3abb014.jpeg)
 
-<p>Starting university was a big dream for me. From the beginning, I had planned to take admission in UET main campus Lahore. I wanted to study there, but due to preference list and merit, I got selected in UET Faisalabad campus.</p>
+My first semester in Computer Engineering was challenging but important.
 
-<p>I am originally from Shorkot. I came to Faisalabad for studies and started living in the hostel. It was my first time living away from home, so I faced a lot of difficulties. Adjusting to new environment, managing food, and handling everything on my own was not easy.</p>
+I started learning Python and Machine Learning. This was difficult for me because I had no strong programming background. I only had a little knowledge of C language in 2nd year.
 
-<p>In the first semester, along with other subjects, we had to study Python and Machine Learning. This was completely new for me because I had never studied programming properly before. In 12th grade, I only studied very basic C language, so I was struggling a lot in the beginning.</p>
+In the beginning, I struggled to understand programming logic and concepts. But I stayed consistent and kept practicing.
 
-<p>Understanding concepts, completing assignments, and preparing for exams was really challenging. There were many nights when I felt stuck and thought it was too difficult. But I kept working hard and never gave up.</p>
+I also faced personal challenges. I wanted admission in Lahore, but due to preference, I came to Faisalabad. Hostel life was new for me, and it was difficult because I had never lived away from home before.
 
-<p>Alhamdulillah, with consistent effort and struggle, I was able to get good results in the first semester. This success gave me confidence and motivation to keep going.</p>
+Despite these challenges, I continued working hard. My GPA was below 3, which was disappointing. But I made a decision to improve in the second semester by putting in more effort.
 
-<p>Now the journey is still continuing. InshaAllah, I will keep working hard to develop my skills and clear my concepts properly. I want to become really good at programming and machine learning.</p>
+## Key Learnings
+- Learned Python from scratch  
+- Basic understanding of Machine Learning  
+- Improved problem-solving  
+- Learned to stay consistent  
 
-<p>In the future, I have a big goal — I want to build a large and useful project that can help people. This is just the beginning of my journey, and I am excited to see how far I can go with dedication and hard work.</p>
+## Challenges
+> Weak programming background  
+> Difficulty in new concepts  
+> Hostel life adjustment  
+> Low GPA  
 
-<p><strong>Stay tuned for more updates on My Journey!</strong></p>
+## My Plan
+- Improve GPA in next semester  
+- Practice coding daily  
+- Build small projects  
+- Stay disciplined  
+
+## Conclusion
+This semester built my foundation. Now I am more focused and ready to improve.
