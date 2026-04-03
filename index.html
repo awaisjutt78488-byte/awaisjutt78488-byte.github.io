@@ -1,17 +1,15 @@
 ---
-layout: default
-title: "Home"
+title: Home
+layout: default   # agar default layout hai to yeh rakho
 ---
 
-{% if site.show_excerpts %}
-  {% for post in site.posts %}
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
-    </article>
-  {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
+<div style="text-align: center; padding: 50px 20px;">
+  <h1>MuhammadAwais</h1>
+  <p><strong>Your Short Bio / Tagline</strong></p>
+  
+  <img src="your-photo.jpg" alt="My Photo" style="width: 200px; border-radius: 50%; margin: 20px 0;">
+  
+  <p>I'm a student / developer from Faisalabad, currently learning web development and building my personal journey website.</p>
+  
+  <p>This website contains my personal information, contact details, and blog posts about my learning experiences.</p>
+</div>
