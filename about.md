@@ -8,10 +8,18 @@ permalink: /about/
   <p class="section-label">About</p>
   <h2>About Me</h2>
   <p>I am Muhammad Awais, a Computer Engineering student who is learning step by step through practice, discipline, and patience.</p>
-  <p>I started this journey without a strong programming background, but I kept moving forward by studying consistently and learning from each challenge.</p>
+  <p>I am basically from Shorkot Cantt, and I started this journey without a strong programming background, but I kept moving forward by studying consistently and learning from each challenge.</p>
 </section>
 
 <section class="two-column-grid">
+  <div class="info-card">
+    <h3>Personal Details</h3>
+    <ul>
+      <li>Name: Muhammad Awais</li>
+      <li>City: Shorkot Cantt</li>
+      <li>Current Study City: Faisalabad</li>
+    </ul>
+  </div>
   <div class="info-card">
     <h3>My Journey</h3>
     <ul>
