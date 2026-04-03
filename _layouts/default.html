@@ -3,21 +3,23 @@
 
 {% include head.html %}
 
-<header class="hover smooth">
-  {% unless site.show_minimal and site.navigation and site.external %}
-    <h1 {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
-  {% endunless %}
-  {% include menu.html menu=site.navigation %}
-  {% include menu.html menu=site.external %}
-</header>
+<body class="site-shell">
+  <header class="site-header">
+    <div class="brand-block">
+      <p class="eyebrow">Portfolio Website</p>
+      <h1><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+      <p class="brand-copy">{{ site.description }}</p>
+    </div>
+    {% include menu.html menu=site.data.navigation.main %}
+  </header>
 
-{{ content }}
+  <main class="page-shell">
+    {{ content }}
+  </main>
 
-{%- if site.footer -%}
-<footer class="hover">
-  <div>{{ site.description }}</div>
-  {% include menu.html menu=site.footer %}
-</footer>
-{%- endif -%}
+  <footer class="site-footer">
+    <p>{{ site.description }}</p>
+  </footer>
+</body>
 
 </html>

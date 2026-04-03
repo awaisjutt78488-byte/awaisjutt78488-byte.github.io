@@ -1,12 +1,3 @@
 title: Muhammad Awais Portfolio
 description: My Computer Engineering Journey
-
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about.html
-  - name: Blog
-    link: /blog.html
-  - name: Contact
-    link: /contact.html
+author: Muhammad Awais
