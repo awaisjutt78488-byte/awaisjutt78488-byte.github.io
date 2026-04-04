@@ -2,6 +2,7 @@
 title: "My Effort and Consistency"
 layout: post
 excerpt: "I kept practicing step by step, and regular effort slowly helped me gain confidence."
+image: /assets/images/posts/my-effort-and-consistency.svg
 ---
 
 One thing that helped me most was consistency.

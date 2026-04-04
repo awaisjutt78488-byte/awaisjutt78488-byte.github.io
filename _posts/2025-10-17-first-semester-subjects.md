@@ -2,6 +2,7 @@
 title: "First Semester Subjects"
 layout: post
 excerpt: "My first semester introduced me to Python, machine learning, and a heavy academic workload."
+image: /assets/images/posts/first-semester-subjects.svg
 ---
 
 My first semester subjects gave me a completely new academic experience.

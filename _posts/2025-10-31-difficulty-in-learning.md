@@ -2,6 +2,7 @@
 title: "Difficulty in Learning"
 layout: post
 excerpt: "Programming logic and machine learning concepts felt difficult in the beginning, but I kept going."
+image: /assets/images/posts/difficulty-in-learning.svg
 ---
 
 Learning was not easy for me in the beginning.

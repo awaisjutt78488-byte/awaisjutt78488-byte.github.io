@@ -2,6 +2,7 @@
 title: "Adjusting to Hostel Life"
 layout: post
 excerpt: "Moving away from home changed my routine, mindset, and discipline, but it also helped me grow stronger."
+image: /assets/images/posts/adjusting-to-hostel-life.svg
 ---
 
 Starting hostel life was one of the biggest changes in my university journey.

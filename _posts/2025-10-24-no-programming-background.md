@@ -2,6 +2,7 @@
 title: "No Programming Background"
 layout: post
 excerpt: "Starting university without a proper programming background made learning much harder, especially in the beginning."
+image: /assets/images/posts/no-programming-background.svg
 ---
 
 Before university, I did not have a proper programming background.

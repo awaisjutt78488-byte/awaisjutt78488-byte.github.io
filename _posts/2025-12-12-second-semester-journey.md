@@ -2,6 +2,7 @@
 title: "Second Semester Journey"
 layout: post
 excerpt: "My second semester brought more effort, more challenges, online classes, and a stronger push before mids."
+image: /assets/images/posts/second-semester-journey.svg
 ---
 
 My second semester started with a stronger mindset.

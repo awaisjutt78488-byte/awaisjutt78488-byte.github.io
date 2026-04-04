@@ -25,10 +25,16 @@ permalink: /blog/
 <section class="posts-grid">
   {% for post in site.posts %}
     <article class="post-preview-card">
-      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt | strip_html | truncate: 170 }}</p>
-      <a class="read-more" href="{{ post.url | relative_url }}">Read full post</a>
+      {% assign cover = post.image | default: '/assets/images/posts/default-post-cover.svg' %}
+      <a class="post-cover-link" href="{{ post.url | relative_url }}">
+        <img class="post-cover" src="{{ cover | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy" decoding="async" />
+      </a>
+      <div class="post-preview-copy">
+        <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt | strip_html | truncate: 170 }}</p>
+        <a class="read-more" href="{{ post.url | relative_url }}">Read full post</a>
+      </div>
     </article>
   {% endfor %}
 </section>

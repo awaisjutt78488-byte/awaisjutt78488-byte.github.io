@@ -2,6 +2,7 @@
 title: "Hostel Life Challenges"
 layout: post
 excerpt: "Hostel life was completely new for me, and the adjustment was difficult, but it taught me discipline and self-management."
+image: /assets/images/posts/hostel-life-challenges.svg
 ---
 
 Hostel life was completely new and difficult for me.

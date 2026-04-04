@@ -2,6 +2,7 @@
 title: "First Semester Result"
 layout: post
 excerpt: "My GPA was below 3 in the first semester, but I chose to treat it as a lesson instead of a failure."
+image: /assets/images/posts/first-semester-result.svg
 ---
 
 My first semester result was disappointing for me.

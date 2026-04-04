@@ -2,6 +2,7 @@
 title: "Moving from Shorkot to Faisalabad"
 layout: post
 excerpt: "Leaving Shorkot and moving to Faisalabad for studies was a big change that helped me become more independent."
+image: /assets/images/posts/moving-from-shorkot-to-faisalabad.svg
 ---
 
 I belong to Shorkot, and moving to Faisalabad for my studies was a major step in my life.

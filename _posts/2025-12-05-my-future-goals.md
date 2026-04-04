@@ -2,6 +2,7 @@
 title: "My Future Goals"
 layout: post
 excerpt: "My future goal is to build strong programming skills, create a major project, and achieve a strong position in my field."
+image: /assets/images/posts/my-future-goals.svg
 ---
 
 My future goals are clear in my mind.

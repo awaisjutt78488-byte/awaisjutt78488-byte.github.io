@@ -2,9 +2,8 @@
 title: "My First Semester Journey"
 layout: post
 excerpt: "My first semester in Computer Engineering was difficult, but it taught me consistency, patience, and how to keep improving."
+image: /assets/images/posts/my-first-semester-journey.svg
 ---
-
-![First Semester Journey](https://user-images.githubusercontent.com/4943215/74586455-c8048300-4fe7-11ea-84ba-aa49f3abb014.jpeg)
 
 My first semester in Computer Engineering was challenging, but it became an important part of my growth.
 

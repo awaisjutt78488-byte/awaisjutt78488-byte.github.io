@@ -2,6 +2,7 @@
 title: "My Goal to Join UET"
 layout: post
 excerpt: "From the beginning, my goal was to get admission in the UET main campus and keep improving wherever I studied."
+image: /assets/images/posts/my-goal-to-join-uet.svg
 ---
 
 From the beginning, my target was to get admission in the UET main campus.

@@ -2,6 +2,7 @@
 title: "My Current Mindset"
 layout: post
 excerpt: "I am still improving, but now I am more serious, disciplined, and focused on building real skills."
+image: /assets/images/posts/my-current-mindset.svg
 ---
 
 Right now, I still feel that I am learning and struggling in many areas, but I can also see improvement in myself.
